@@ -14,7 +14,7 @@ const Sidebar = () => {
         options,
         defaultSelectedKeys,
     } = useOptions();
-    const [collapsed, setCollapsed] = useState(true);
+    const [collapsed, setCollapsed] = useState(false);
     const [forcedcollapsed, setForcedCollapsed] = useState(true);
 
     const handleClicked = (item) => {

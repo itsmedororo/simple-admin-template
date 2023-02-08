@@ -61,7 +61,7 @@ const Home = () => {
     const renderFooter = () => {
         return (
             <Footer>
-                © 2023 Simple Admin. All Rights Reserved.
+                © 2023 Simple. All rights reserved.
             </Footer>
         );
     }

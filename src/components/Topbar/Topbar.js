@@ -33,7 +33,7 @@ const Topbar = ({
         <TitleWrapper>
             <Logo onClick={goToHome} />
             <Title onClick={goToHome}>
-                Simple Admin
+                Simple
             </Title>
         </TitleWrapper>
     );

@@ -1,4 +1,4 @@
-import logo from './logo.ico';
+import logo from './logo.png';
 import no_internet_img from './no_internet.jpg';
 
 export {
