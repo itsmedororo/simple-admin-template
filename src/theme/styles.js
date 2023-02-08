@@ -10,6 +10,10 @@ body {
   background-color: ${props => props.theme.backgroundColor};   
 }
 
+.ant-layout {
+  background-color: ${props => props.theme.backgroundColor};
+}
+
 .ant-input:not(.ant-input-status-error) {
   border: 1px solid ${props => props.theme.primaryColor};
 

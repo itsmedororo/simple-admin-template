@@ -33,7 +33,7 @@ const Topbar = ({
         <TitleWrapper>
             <Logo onClick={goToHome} />
             <Title onClick={goToHome}>
-                Simple Admin Template
+                Simple Admin
             </Title>
         </TitleWrapper>
     );

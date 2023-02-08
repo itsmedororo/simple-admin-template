@@ -16,8 +16,10 @@ background: ${props => props.theme.backgroundColor};
 
 export const Content = styled(AntContent)`
 padding: 16px 24px;
-background: ${props => props.theme.backgroundColor} !important;
+background: #fff !important;
 overflow: auto;
+margin: 16px 24px 0 24px;
+border-radius: 5px;
 
 @media screen and (max-width: 480px) {
     padding: 10px !important;
